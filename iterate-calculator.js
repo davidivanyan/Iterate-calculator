@@ -25,7 +25,7 @@ const absolute = (a, b) => {return (a>0)? a:0-a;}
 const mod = (a, b) => {return a%b}
 const log = (a, base) => {}
 const flipSign = (a) => {return 0-a}
-const sin = (a) => {}
+const sin = (a) => {return a;}
 const cos = (a) => {}
 const percent = (a, b) => {return a*b/100}
 const integral = (func,a, b,precision) => {}
